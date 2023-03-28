@@ -1,4 +1,4 @@
-package org.example;
+package programs;
 
 
 public class Random {

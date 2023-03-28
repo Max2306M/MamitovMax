@@ -36,8 +36,8 @@
 //        System.out.println(student2.b + student2.course);
 //        System.out.println(student2.c + student2.speciality);
 //        System.out.println();
-
-
+//
+//
 //      Student student3 = new Student();
 //        Student student4 = new Student();
 //        student3.student = "Pol";

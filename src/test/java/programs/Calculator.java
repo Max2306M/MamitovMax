@@ -1,4 +1,4 @@
-package org.example;
+package programs;
 import java.util.Scanner;
 public class Calculator {
 
